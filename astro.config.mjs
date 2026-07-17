@@ -33,7 +33,7 @@ export default defineConfig({
 					collapsed: true,
 					items: [
 						{ label: 'Overview', link: '04_review/overview' },
-						{ label: 'Commenting', link: '04_review/replying' },
+						{ label: 'Commenting', link: '04_review/comments' },
 						{ label: 'Versions', link: '04_review/versions' },
 					],
 				},
